@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-description: "Jekyll Template for Blogging"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+name: "Бизнес-интернет-вергилий"
+description: "Ваш проводник в кругах интернет-продвижения"
+meta_description: "Блог интернет-маркетолога о продвижении в интернете"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll

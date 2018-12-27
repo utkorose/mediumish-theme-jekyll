@@ -7,6 +7,7 @@ description: >-
   площадках.
 categories: texts
 published: true
+featured: true
 background: /img/posts/woman-2696408_1920.jpg
 ---
 

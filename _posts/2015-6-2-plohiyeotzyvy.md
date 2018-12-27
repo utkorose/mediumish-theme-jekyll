@@ -3,6 +3,7 @@ layout: post
 title: Как работать с негативными отзывами на Флампе и других сервисах
 description: "С такой дрянью я ещё не сталкивался. Знаете, бывало, что даже не понимал, зачем я во всё это влез. Но затем пришло просветление…"
 featured: true
+image:/img/bull-46369_640.png
 categories: feedbacks base
 published: true
 ---

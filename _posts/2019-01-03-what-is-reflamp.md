@@ -1,11 +1,11 @@
 ---
-published: false
+published: true
 layout: post
 description: >-
   Рефламп — это способ поделиться чьим-то чужим отзывом со своими подписчиками
   на Флампе.
 categories: texts
-featured: true
+featured: false
 image: assets/images/bad-review-2813741_1280.png
 ---
 # Что такое рефламп на Флампе

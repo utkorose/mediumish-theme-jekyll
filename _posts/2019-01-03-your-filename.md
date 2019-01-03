@@ -6,7 +6,7 @@ description: >-
   на Флампе.
 categories: texts
 featured: true
-image: assets/images/woman-2696408_1920.jpg
+image: assets/images/bad-review-2813741_1280.png
 ---
 # Что такое рефламп на Флампе
 

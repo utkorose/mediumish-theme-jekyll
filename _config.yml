@@ -33,6 +33,8 @@ authors:
 plugins: 
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-feed
+  - jekyll-sitemap
     
 # Archives
 jekyll-archives:

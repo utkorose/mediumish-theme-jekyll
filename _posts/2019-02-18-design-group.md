@@ -27,12 +27,12 @@ image: assets/images/bad-review-2813741_1280.png
 
 а вот примеры сайтов, где это правило нарушается, всё собрано в кучу:
 
-- http://arngren.net/
-- http://hosanna1.com/
-- https://www.lingscars.com/
+- <http://arngren.net/>
+- <http://hosanna1.com/>
+- <https://www.lingscars.com/>
 
 Подробнее о правиле читайте здесь:
 
-https://bureau.ru/bb/soviet/20140818/
-https://www.artlebedev.ru/kovodstvo/sections/136/
-https://www.ozon.ru/context/detail/id/4018176/
+- <https://bureau.ru/bb/soviet/20140818/>
+- <https://www.artlebedev.ru/kovodstvo/sections/136/>
+- <https://www.ozon.ru/context/detail/id/4018176/>

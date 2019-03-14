@@ -7,7 +7,7 @@ description: >-
   на Флампе.
 categories: texts
 featured: false
-image: assets/images/bad-review-2813741_1280.png
+image: assets/images/mistake-3019036_1280.jpg
 ---
 Не обязательно быть дизайнером, чтобы видеть самые частые проблемы чужого дизайна. Одна из частых ошибок — неправильное расстояние между объектами.
 

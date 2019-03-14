@@ -16,6 +16,8 @@ image: assets/images/bad-review-2813741_1280.png
 Если вы неумело нарушите это правило в дизайне, в лучшем случае ваше творение будет смотреться криво, в худшем — он будет сбивать с толку.
 
 Посмотрим скриншот сайта Википедии — там сохраняется тот же принцип:
+![wikipedia.png]({{site.baseurl}}/assets/images/wikipedia.png)
+
 
 Левый верхний угол — логотип, название и краткое описание/суть/слоган.
 
@@ -24,11 +26,13 @@ image: assets/images/bad-review-2813741_1280.png
 и т.д.
 
 а вот примеры сайтов, где это правило нарушается, всё собрано в кучу:
-http://arngren.net/
-http://hosanna1.com/
-https://www.lingscars.com/
 
-:
+- http://arngren.net/
+- http://hosanna1.com/
+- https://www.lingscars.com/
+
+Подробнее о правиле читайте здесь:
+
 https://bureau.ru/bb/soviet/20140818/
 https://www.artlebedev.ru/kovodstvo/sections/136/
 https://www.ozon.ru/context/detail/id/4018176/

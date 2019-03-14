@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Как понять, что дизайн плохой и сделать его лучше: группировка'
 description: >-
